@@ -11,8 +11,8 @@ I love to collaborate with anyone on anything because I like to learn new things
 
 ### ⚡Fun useless Fact: I like to work with electronics more 
 
+-----------------------------------------------------------------------------------------------
 
-(![snake gif]https://github.com/Shasank-Bommineni/Shasank-Bommineni/blob/output/github-contribution-grid-snake.gif)
 
 <!--START_SECTION:waka-->
 
@@ -23,6 +23,9 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+
+![snake gif](https://github.com/Shasank-Bommineni/Shasank-Bommineni/blob/output/github-snake-dark.svg)
 
 
 [![](https://visitcount.itsvg.in/api?id=Shasank-Bommineni&icon=8&color=0)](https://visitcount.itsvg.in)

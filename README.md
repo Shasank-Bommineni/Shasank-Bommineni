@@ -12,6 +12,8 @@ I love to collaborate with anyone on anything because I like to learn new things
 ### ⚡Fun useless Fact: I like to work with electronics more 
 
 
+(![snake gif]https://github.com/Shasank-Bommineni/Shasank-Bommineni/blob/output/github-contribution-grid-snake.gif)
+
 <!--START_SECTION:waka-->
 
 ```txt

@@ -24,8 +24,11 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Shasank-Bommineni)
 
 ![snake gif](https://github.com/Shasank-Bommineni/Shasank-Bommineni/blob/output/github-snake-dark.svg)
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Shasank-Bommineni&icon=8&color=0)](https://visitcount.itsvg.in)

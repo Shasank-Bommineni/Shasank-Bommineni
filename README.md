@@ -9,7 +9,7 @@ I love to collaborate with anyone on anything because I like to learn new things
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shasank_bommineni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shasank-bommineni-a1409238a/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasibommineni1898@gmail.com) sasibommineni1898@gmail.com
 
 
-### ⚡Fun useless Fact: I like to work with electronics more 
+### ⚡Fun useless Fact: I like to work with electronics more and I'll play Games
 
 -----------------------------------------------------------------------------------------------
 

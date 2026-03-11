@@ -13,6 +13,25 @@ I love to collaborate with anyone on anything because I like to learn new things
 
 -----------------------------------------------------------------------------------------------
 
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Shasank-Bommineni&theme=neon-palenight&hide_border=true&card_width=705">
+     </td>
+   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shasank-Bommineni&theme=2077">
+     </td>
+   </tr>
+</table><table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shasank-Bommineni&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shasank-Bommineni&theme=aura_dark"></td>
+  </tr>
+</table>
+
 
 <!--START_SECTION:waka-->
 

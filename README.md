@@ -1,5 +1,5 @@
 # 💫 This is Shasank
-I love to collaborate with anyone on anything because I like to learn new things<br>I’m working on Python DSA’s<br>That's it nothing More
+I love to collaborate with anyone on anything because I like to learn new things<br>I’m working on Python DSA’s<br>That's it nothing More I think
 
 # 💻 Languages/Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -12,7 +12,6 @@ I love to collaborate with anyone on anything because I like to learn new things
 ### ⚡Fun useless Fact: I like to work with electronics more and I'll play Games
 
 -----------------------------------------------------------------------------------------------
-
 
 
 <!--START_SECTION:waka-->
